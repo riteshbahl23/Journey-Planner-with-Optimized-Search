@@ -1,0 +1,7 @@
+Assumptions:
+1.The train arrives and depart within a gap of 24hrs
+2.The planner is for a week and the wait doesn't go more than a week.
+3.Since the days when the train arrives at a station is not given properly that is the day count is not stored in any of the 
+data structures, I have printed all the days when the train starts from the sources station for each train.
+Also only days when the station starts from the source are given, Hence only the days stored are printed out.
+4.The transit times are to be considered from the arrival of the train to that station and departure of the next train. 

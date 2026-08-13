@@ -1,0 +1,137 @@
+Executing "Read commands from file" 
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "STATION" (for station name "SOURCE STATION") in trie
+Successfully inserted "SOURCE" (for station name "SOURCE STATION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "A" (for station name "STATION A") in trie
+Successfully inserted "STATION" (for station name "STATION A") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "B" (for station name "STATION B") in trie
+Successfully inserted "STATION" (for station name "STATION B") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "C" (for station name "STATION C") in trie
+Successfully inserted "STATION" (for station name "STATION C") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "D" (for station name "STATION D") in trie
+Successfully inserted "STATION" (for station name "STATION D") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "E" (for station name "STATION E") in trie
+Successfully inserted "STATION" (for station name "STATION E") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "F" (for station name "STATION F") in trie
+Successfully inserted "STATION" (for station name "STATION F") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "G" (for station name "STATION G") in trie
+Successfully inserted "STATION" (for station name "STATION G") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "H" (for station name "STATION H") in trie
+Successfully inserted "STATION" (for station name "STATION H") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "I" (for station name "STATION I") in trie
+Successfully inserted "STATION" (for station name "STATION I") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "J" (for station name "STATION J") in trie
+Successfully inserted "STATION" (for station name "STATION J") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "K" (for station name "STATION K") in trie
+Successfully inserted "STATION" (for station name "STATION K") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "L" (for station name "STATION L") in trie
+Successfully inserted "STATION" (for station name "STATION L") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "M" (for station name "STATION M") in trie
+Successfully inserted "STATION" (for station name "STATION M") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "N" (for station name "STATION N") in trie
+Successfully inserted "STATION" (for station name "STATION N") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "STATION" (for station name "DESTINATION STATION") in trie
+Successfully inserted "DESTINATION" (for station name "DESTINATION STATION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "STATION" (for station name "NEW SOURCE STATION") in trie
+Successfully inserted "SOURCE" (for station name "NEW SOURCE STATION") in trie
+Successfully inserted "NEW" (for station name "NEW SOURCE STATION") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "X" (for station name "STATION X") in trie
+Successfully inserted "STATION" (for station name "STATION X") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "Y" (for station name "STATION Y") in trie
+Successfully inserted "STATION" (for station name "STATION Y") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "Z" (for station name "STATION Z") in trie
+Successfully inserted "STATION" (for station name "STATION Z") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "W" (for station name "STATION W") in trie
+Successfully inserted "STATION" (for station name "STATION W") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "U" (for station name "STATION U") in trie
+Successfully inserted "STATION" (for station name "STATION U") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "STATION" (for station name "NEW DESTINATION STATION") in trie
+Successfully inserted "DESTINATION" (for station name "NEW DESTINATION STATION") in trie
+Successfully inserted "NEW" (for station name "NEW DESTINATION STATION") in trie
+Success
+Executing "Exit reading commands from file" 
+Success
+Executing "Exit admin user"
+Executing "Find direct journeys"
+Chosen source station: STATION N
+Chosen destination station: STATION L
+Executing "Find direct journeys"
+Chosen source station: STATION X
+Chosen destination station: STATION Z
+Executing "Find direct journeys"
+Chosen source station: SOURCE STATION
+Chosen destination station: DESTINATION STATION
+Executing "Find direct journeys"
+Chosen source station: SOURCE STATION
+Chosen destination station: DESTINATION STATION
+Executing "Find direct journeys"
+Chosen source station: NEW SOURCE STATION
+Chosen destination station: NEW DESTINATION STATION
