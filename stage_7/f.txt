@@ -1,0 +1,15 @@
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "A" (for station name "A") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "B" (for station name "B") in trie
+Success
+Executing "Enter/delete station name"
+Executing "Enter station name"
+Successfully inserted "C" (for station name "C") in trie
+Success
+Executing "Exit admin user"
+Chosen station: B
+Executing "Exit normal user"

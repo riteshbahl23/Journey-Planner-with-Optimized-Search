@@ -1,0 +1,4 @@
+assumptions :
+1. I have the order of selecting the trains is checking the days first then arrival times.In case if a train starts from a station i have considered it to be early. incase of two trains starting from the 
+station i have compared the depature time, even in case the arrival time is same then also the depature time is compared.
+2. I have assumed that Quicksort function sorts the list between the startnode and endnode(variables in the code).
